@@ -1,6 +1,6 @@
 # Projeto_Credit_Risk
-PROJETO DE CLASSIFICAÇÃO DE RISCO DE CRÉDITO
-# 🏦 Credit Risk Intelligence Platform
+
+ 🏦 Credit Risk Intelligence Platform
 
 > Plataforma end-to-end de **Engenharia de Dados, Machine Learning e MLOps** para classificação e previsão de risco de inadimplência, desenvolvida com **Databricks, Delta Lake, PySpark, MLflow e Python**.
 
